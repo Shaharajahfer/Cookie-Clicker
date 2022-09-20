@@ -1,6 +1,6 @@
 # Cookie-Clicker
 
-In this project, Selenium webdriver is used to automate the web-based game Cookie Clicker. It automatically clicks on the cookie instead of manually clicking on it and select upgrades and purchase them completely automatically. 
+In this project, Selenium webdriver is used to automate the web-based game Cookie Clicker (http://orteil.dashnet.org/experiments/cookie/). It automatically clicks on the cookie instead of manually clicking on it and select upgrades and purchase them completely automatically. 
 
 The game is, we have to click on a big giant cookie as fast as we can, and once we have got some cookies, we can buy certain upgrades like, a cursor which will click on the cookie automatically and when we have more cookies, we can buy some other updates like gradma, who will bake more cookies.
 
